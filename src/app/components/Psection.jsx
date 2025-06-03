@@ -110,7 +110,7 @@ export default function Home() {
         </div>
       </header>
 
-      <main className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 px-6 pb-12">
+      <main id="maain" className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 px-6 pb-12">
         {filteredProjects.map((project, index) => (
           <div key={index} className="bg-white shadow rounded-xl overflow-hidden hover:shadow-xl transition">
             <img
