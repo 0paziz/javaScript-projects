@@ -6,14 +6,14 @@ export default function Footer() {
 
 <>
 
-<div className="text-center py-2">
+<footer className="w-full bg-gray-100 text-center px-4 py-4">
+  <div className="max-w-screen-lg mx-auto">
+    <span className="block text-sm text-gray-500">
+      © 2025 Abdiaziz. All Rights Reserved. Built with <span role="img" aria-label="heart">❤️</span>
+    </span>
+  </div>
+</footer>
 
-  <span className="block text-sm text-center text-gray-500 py-2 ">
-    © 2025 Abdiaziz. All Rights Reserved. Built with{" ❤️"}
-  </span>
-
-  
-</div>
 
 
 </>

@@ -73,7 +73,7 @@ export default function Home() {
     {
       title: 'Quiz App',
       description: 'Simple quiz app in vanilla JS.',
-      image: '/images/quiz.png',
+      image: './images/quiz.png',
       liveLink: 'https://0paziz.github.io/QuizApp/',
       githubLink: 'https://github.com/0paziz/QuizApp',
       category: 'Vanilla JS',
