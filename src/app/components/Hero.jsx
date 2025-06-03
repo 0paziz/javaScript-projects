@@ -22,8 +22,9 @@ const HeroSection = () => {
 
           <div className="w-full sm:w-4/5 lg:w-1/2">
           <img
+            
             src="./images/herojs.png"
-            alt="Bootstrap Themes"
+            alt="hero vector"
             className="mx-auto lg:ml-auto w-full h-auto mt-2  animate-float "
             width={700}
             height={500}
