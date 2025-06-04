@@ -1,16 +1,8 @@
 # Js projects
 
-explore projects built with various JS technologies.
+simple demo webpage that showcases all my javaScript project
 
 
-## 🖼️ Demo
 
-[Live Demo](https://your-demo-link.com)
+[Live Demo](https://0paziz.github.io/javaScript-projects/)
 
-## 📦 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
