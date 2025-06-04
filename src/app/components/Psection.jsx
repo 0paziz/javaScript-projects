@@ -92,7 +92,7 @@ export default function Home() {
     filter === 'All' ? projects : projects.filter(p => p.category === filter)
 
   return (
-    <div id='projects' className="bg-gray-100 min-h-screen text-gray-900 px-20">
+    <div id='projects' className="bg-gray-100 min-h-screen text-gray-900 lg:px-20">
 
 
       <header className="text-center py-10">
