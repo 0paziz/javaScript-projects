@@ -22,6 +22,16 @@ export default function Home() {
       githubLink: 'https://github.com/0paziz/book-nest',
       category: 'API',
     },
+
+    {
+      title: 'Job-List',
+      description: 'Job listing app with filtering',
+      image: './images/Job-Listings.png',
+      liveLink: 'https://0paziz.github.io/job-filter/',
+      githubLink: 'https://github.com/0paziz/job-filter',
+      category: 'React',
+    },
+
     {
       title: 'Search Image',
       description: 'Image search via API.',
